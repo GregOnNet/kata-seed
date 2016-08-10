@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KataBowling", "katas\KataBowling\KataBowling.csproj", "{400DA59B-E353-4205-AF49-8A6D5F23B078}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PriorityQueue", "katas\PriorityQueue\PriorityQueue.csproj", "{06D6E7CB-7601-42A2-BF82-21588A9C7595}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{400DA59B-E353-4205-AF49-8A6D5F23B078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{400DA59B-E353-4205-AF49-8A6D5F23B078}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{400DA59B-E353-4205-AF49-8A6D5F23B078}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{400DA59B-E353-4205-AF49-8A6D5F23B078}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06D6E7CB-7601-42A2-BF82-21588A9C7595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06D6E7CB-7601-42A2-BF82-21588A9C7595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06D6E7CB-7601-42A2-BF82-21588A9C7595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06D6E7CB-7601-42A2-BF82-21588A9C7595}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
